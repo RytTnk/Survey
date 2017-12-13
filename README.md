@@ -4,7 +4,7 @@
 
 Dec.1 POI2Vec: 
 
-##  by arXivtimes
+##  Following Notification on arXivtimes and my view
 
 - Categorizing
 - Noverity
