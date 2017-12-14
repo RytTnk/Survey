@@ -7,9 +7,11 @@ Dec.1 POI2Vec:
 ##  Following Notification on arXivtimes and my view
 
 - Categorizing
-- Novelity
+(common rec, current loc, sequence rec)
+- Novelity(difference, margine)
 - Approach
 - 
+- Experiment
 - Result
 - Discuss & in my opinion
 - Next for supporting deeper grasp and futher challenge.
