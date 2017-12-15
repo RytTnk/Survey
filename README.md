@@ -8,7 +8,7 @@ Dec.1 POI2Vec:
 
 - Categorizing
 (common rec, current loc, sequence rec)
-- Novelity(difference, margine)
+- Novelity(difference, margine) (= purpose, part of contri)
 - Approach
 - 
 - Experiment
