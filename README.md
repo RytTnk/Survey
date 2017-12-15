@@ -10,15 +10,26 @@ Dec.1 POI2Vec:
 - summa
 
 - Categorizing
-(common rec, current loc, sequence rec)
+  - (common rec, current loc, sequence rec)
+  
 - Novelity(difference, margine) (= purpose, part of contri)
+  - 
 - Approach(proposed model, method, archtech, framew)
-- 
+  - 
 - Experiment
+  - condition
+    -
+    -
+    -
 - Result
+  - Simply
 - Discuss & in my opinion
+  - With regard to result
+  - General or particlar one
 - Next for supporting deeper grasp and futher challenge.
-
+  - material, reason
+- Published
+  - citation manner
 
 
 
@@ -35,4 +46,4 @@ Dec.1 POI2Vec:
 - (rel work) for organizing category and onject   &&& enphasizing my idea
 - 
 -
-- ((I think that originality(meant in interesting one) is assessed by other. Of course I know I should claim it is interesting to other.))
+- ((I think that **originality**(meant in interesting one) is assessed by other. Of course I know I should claim it is interesting to other.))
