@@ -13,14 +13,14 @@ Dec.1 POI2Vec:
   - (common rec, current loc, sequence rec)
   
 - Novelity(difference, margine) (= purpose, part of contri)
-  - 
+  - sum
 - Approach(proposed model, method, archtech, framew)
-  - 
+  - sum
 - Experiment
   - condition
-    -
-    -
-    -
+    - Dataset sta
+    - setting
+    - metric
 - Result
   - Simply
 - Discuss & in my opinion
