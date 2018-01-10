@@ -15,7 +15,7 @@ Dec.1 POI2Vec: Date Started listing
 - Novelity(difference, margine) (= purpose, part of contri)
   - sum
 - Approach(proposed model, method, archtech, framew)
-  - sum
+  - detail than Nove(this insists diffference comparing to previous ones in putting heavy wight)
 - Experiment
   - condition
     - Dataset sta
