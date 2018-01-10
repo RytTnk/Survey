@@ -2,9 +2,9 @@
 
 ## POI
 
-Dec.1 POI2Vec: 
+Dec.1 POI2Vec: Date Started listing
 
-##  Following Notification on arXivtimes and my view
+##  Following Notification on arXivtimes [https://github.com/arXivTimes/arXivTimes] and my view
 
 - Date (yyyy/mm/dd)
 - summa
@@ -47,3 +47,6 @@ Dec.1 POI2Vec:
 - 
 -
 - ((I think that **originality**(meant in interesting one) is assessed by other. Of course I know I should claim it is interesting to other.))
+
+## Link
+-
