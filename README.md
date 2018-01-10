@@ -4,7 +4,7 @@
 
 Dec.1 POI2Vec: Date Started listing
 
-##  Following Notification on arXivtimes [https://github.com/arXivTimes/arXivTimes] and my view
+## (Pre released) Following Notification on arXivtimes [https://github.com/arXivTimes/arXivTimes] and my view
 
 - Date (yyyy/mm/dd)
 - summa
