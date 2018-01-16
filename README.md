@@ -53,3 +53,11 @@ Dec.1 POI2Vec: Date Started listing
 
 ## Ongoing 
 - paper list with Hlink
+
+-------------
+
+# Plan
+- Dataset
+- Tools, visu, system, API
+- Kaggle
+- Textbook, article
