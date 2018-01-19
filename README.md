@@ -61,3 +61,10 @@ Dec.1 POI2Vec: Date Started listing
 - Tools, visu, system, API
 - Kaggle
 - Textbook, article
+
+- replace order "Plan", "Temple" 
+
+# Link
+
+  - spatialkeyword.sce.ntu.edu.sg/eval-vldb17 or + /paper
+  - Suprise
