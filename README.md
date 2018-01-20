@@ -1,5 +1,10 @@
 # Survey
 
+- :star:: imporatnt
+- :white_circle:: good phrase
+- "-: question
+- :square: new word, sentence
+
 ## POI
 
 Dec.1 POI2Vec: Date Started listing
